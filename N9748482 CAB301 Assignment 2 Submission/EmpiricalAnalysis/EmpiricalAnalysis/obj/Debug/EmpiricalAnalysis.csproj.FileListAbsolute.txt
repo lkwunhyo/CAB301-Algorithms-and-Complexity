@@ -1,0 +1,21 @@
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe.config
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.pdb
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csprojAssemblyReference.cache
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\source\repos\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.pdb
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe.config
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.pdb
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csprojAssemblyReference.cache
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.pdb
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe.config
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\bin\Debug\EmpiricalAnalysis.pdb
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csprojAssemblyReference.cache
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.exe
+C:\Users\lkwun\OneDrive\Desktop\CAB301\Assignment 2\Submission\EmpiricalAnalysis\EmpiricalAnalysis\obj\Debug\EmpiricalAnalysis.pdb
